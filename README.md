@@ -1,16 +1,17 @@
-# React + Vite
+# Morphic Theme Documentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to the documentation repository for the **Morphic Theme**! This project contains the source code for the Morphic Theme's official documentation website.
 
-Currently, two official plugins are available:
+## About the Morphic Theme
+Morphic is a highly customizable, modern, and feature-rich theme designed for e-commerce platforms (such as Shopify). It features a wide array of dynamic sections, robust layout options, and deep styling capabilities tailored for building premium storefronts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Key Features of the Theme
+- **Extensive Sections:** Includes a massive library of tailored sections such as About Us banners, Announcement bars, Before/After image comparisons, Collection banners, and much more.
+- **Deep Customization:** Built-in section settings for custom container widths, individual color schemes, granular typography controls (font weight, letter spacing, line height), and responsive padding adjustments.
+- **Dynamic & Modern Elements:** Features modern UI elements like scrolling marquees, staggered text animations, gradient highlights, and customizable border radiuses for a sleek, polished aesthetic.
 
-## React Compiler
+## About this Documentation Project
+This site is built using **React** and **Vite** to provide a blazing-fast, interactive documentation hub for merchants and developers using the Morphic Theme. It serves as a complete reference guide for all available sections, settings, blocks, and configurations within the theme.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+*Note: This repository specifically hosts the documentation web application, not the liquid theme code itself.*
